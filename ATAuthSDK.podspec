@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'ATAuthSDK'
-  s.version          = '1.0.0'
+  s.version          = '1.0.1'
   s.summary          = 'My ATAuthSDK'
   s.description      = <<-DESC
 TODO: My iOS ATAuthSDK
