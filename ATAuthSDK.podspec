@@ -13,10 +13,10 @@ Pod::Spec.new do |s|
   s.description      = <<-DESC
 TODO: My iOS ATAuthSDK
                        DESC
-  s.homepage         = 'https://github.com/CaiChenghan/ATAuthSDK'
+  s.homepage         = 'https://github.com/icc-tips/ATAuthSDK'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
-  s.author           = { '蔡成汉' => '1178752402@qq.com' }
-  s.source           = { :git => 'https://github.com/CaiChenghan/ATAuthSDK.git', :tag => s.version.to_s }
+  s.author           = { '吴加锋' => '1097171985@qq.com' }
+  s.source           = { :git => 'https://github.com/icc-tips/ATAuthSDK.git', :tag => s.version.to_s }
   s.ios.deployment_target = '9.0'
   s.resources        = "ATAuthSDK/ATAuthSDK.framework/ATAuthSDK.bundle","ATAuthSDK/ATAuthSDK.framework/TYRZResource.bundle"
   s.vendored_frameworks = 'ATAuthSDK/ATAuthSDK.framework'
